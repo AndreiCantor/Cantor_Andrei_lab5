@@ -1,0 +1,6 @@
+@Cantor_Andrei_lab5_HostAddress = http://localhost:5189
+
+GET {{Cantor_Andrei_lab5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
